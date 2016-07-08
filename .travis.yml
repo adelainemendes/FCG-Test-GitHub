@@ -8,3 +8,7 @@ jdk:
     recipients:
       - fernandogabane@gmail.com
     on_success: always
+    
+    env:
+      global:
+      - secure f/KWxiQng0LHxmwml/ma9evnEA0hcZLnqX1MywMlId9y73MPDr3XI6YidJaFMjrKv6RkPlta8DDK/bnELbToKZIMXWfKx/y76Z6oDJeVRRYHENEHdlcXHSxtrkPT6AbmZSfOsvlVPg/p6kOEUZt6H0MrTNGAJ4AjltrWJRrDfA+iY65YC5P/JXuXh4bEcGqo+5yrgOoA+FzLFVjogm8i7euByuRGkaa9CfY8sQnZQLi/Au922Wl2k9/FajsoPO1m5b4QcywAsUOWtP/WiIrRxmnvPjisss4XoEiWdr7ujCH5J7PaJrkJwxIoHMkUFLXD5ysLCgKFGgPdAMNsBIEu5yoq+hIKPxRNkzLwelbgtOHDNIbahuo0JB8LRLultIPZB1e3q/9V2cCXziiroJ6vqK5C9vFlRtbFcha635UJVXJNMQgIKbL4Uh/y3mv+2cKsavMW7normJ8rEW13OXzeUySQBvpFxYI3RZw0ZSmRVL3ttPMH/OvgttIDUbEaCw9sKd4/NxkyZ/XY+nU+dc4h3U49/DL3aohWCeIoCD6vrYRoLI5pbEnAPDGEQ5PND5vshGVBsP0gfekkHOwWT6rebUGaOw44iOvkoulU5rOn8JXr4NObi4SubbiS5xdwZwbhICFYY0/Zh2GwqOeRH0Zb6vNA+RV45LjDe/z0ZhdT7jQ=
