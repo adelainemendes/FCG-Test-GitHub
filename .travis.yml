@@ -2,12 +2,8 @@ language: java
 
 jdk:
   - oraclejdk8
-  - openjdk7
-
-notifications:
-  email:
-    recipients:
-      - fernandogabane@gmail.com
-    on_success: always
+  
+install: ant deps
+    
 
 
