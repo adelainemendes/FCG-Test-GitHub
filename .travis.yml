@@ -1,1 +1,17 @@
 language: java
+
+jdk:
+  - oraclejdk8
+
+notifications:
+  email:
+    recipients:
+      - fernandogabane@gmail.com
+    on_success: always
+
+script:
+
+
+
+ - ant clean
+ - ant
