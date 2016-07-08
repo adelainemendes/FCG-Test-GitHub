@@ -10,5 +10,4 @@ notifications:
       - fernandogabane@gmail.com
     on_success: always
 
-script:
-  - ant test
+
