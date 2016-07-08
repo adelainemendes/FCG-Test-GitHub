@@ -11,7 +11,3 @@ notifications:
 
 script:
 
-
-
- - ant clean
- - ant
