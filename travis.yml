@@ -6,5 +6,5 @@ jdk:
   notifications:
   email:
     recipients:
-      - stefanfk@gmail.com
+      - fernandogabane@gmail.com
     on_success: always
