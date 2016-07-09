@@ -1,3 +1,10 @@
 language: java
 
+os: windowsxp
+  
+jdk: oraclejdk8
+
+addons:
+  firefox: "39.0"
+  
 script: ant main
