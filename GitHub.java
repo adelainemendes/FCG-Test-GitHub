@@ -1,4 +1,4 @@
-package GitHub;
+package cc.elgeld;
 
 import java.util.concurrent.TimeUnit;
 
