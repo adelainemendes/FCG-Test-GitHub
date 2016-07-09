@@ -1,10 +1,10 @@
-<project name="HelloWord" basedir="." default="main">
+<project name="Recruitment" basedir="." default="main">
     <property name="dir.src"     value="src"/>
     <property name="dir.build"   value="build"/>
     <property name="dir.classes" value="${dir.build}/classes"/>
     <property name="dir.jar"     value="${dir.build}/jar"/>
 
-    <property name="main-class"  value="cc.engeld.HelloWord"/>
+    <property name="main-class"  value="cc.engeld.Recruitment"/>
 
     <target name="clean">
         <delete dir="${dir.build}"/>
