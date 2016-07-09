@@ -1,8 +1,8 @@
 language: java
 
+:
+  - windowsxp
 jdk:
   - oraclejdk8
-os:
-  - windowsxp
 
 script: ant main
