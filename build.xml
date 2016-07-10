@@ -4,7 +4,7 @@
     <property name="dir.classes" value="${dir.build}/classes"/>
     <property name="dir.jar"     value="${dir.build}/jar"/>
 
-    <property name="main-class"  value="cc.engeld.GitHub"/>
+    <property name="main-class"  value="src.GitHub.GitHub"/>
     
     <presetdef name="javac">
         <javac includeantruntime="false" />
