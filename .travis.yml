@@ -18,6 +18,9 @@ env:
 
 addons:
   firefox: "39.0"
+      apt:
+       packages:
+        - oracle-java8-installer
 
 before_script:
   - gem install selenium-webdriver
