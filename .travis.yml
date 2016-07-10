@@ -18,8 +18,8 @@ env:
 
 addons:
   firefox: "39.0"
-      apt:
-       packages:
+    apt:
+    packages:
         - oracle-java8-installer
 
 before_script:
