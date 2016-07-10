@@ -18,9 +18,6 @@ addons:
     apt:
     packages:
         - oracle-java8-installer
-  sauce_connect:
-    username: "fernandogabane"
-    access_key: "278srjfl2G"
 
 before_script:
   - gem install selenium-webdriver
