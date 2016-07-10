@@ -7,8 +7,8 @@
     <property name="main-class"  value="cc.engeld.GitHub"/>
     
     <presetdef name="javac">
-    <javac includeantruntime="false" />
-     </presetdef>
+        <javac includeantruntime="false" />
+    </presetdef>
 
     <target name="clean">
         <delete dir="${dir.build}"/>
